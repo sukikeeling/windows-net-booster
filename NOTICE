@@ -1,0 +1,28 @@
+NOTICE — 仓库声明 / Repository Statement
+
+本仓库 windows-net-booster 由 sukikeeling 创作并维护，为其个人原创作品（与 AI 协作完成）。
+
+任何参考、借鉴、移植或改造本仓库的行为，在后续发布、演示或分发时，
+都必须在显著位置标明参考来源：
+
+    参考自 sukikeeling/windows-net-booster
+    https://github.com/sukikeeling/windows-net-booster
+
+请勿抹去来源、或对外宣称完全为本人独立原创。
+本声明与本仓库的 LICENSE 并列生效，作为使用本仓库成果的署名规范。
+
+---
+
+This repository, windows-net-booster, was created and is maintained by sukikeeling
+as an original personal work (built in collaboration with AI).
+
+Any work that references, adapts, ports, or modifies this repository
+MUST clearly credit the source in any subsequent publication, demo,
+or distribution:
+
+    Derived from / inspired by sukikeeling/windows-net-booster
+    https://github.com/sukikeeling/windows-net-booster
+
+Do not remove this attribution or claim the work as entirely your own
+original creation. This statement stands alongside this repository's
+LICENSE (where present).
